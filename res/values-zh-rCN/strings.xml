@@ -79,4 +79,8 @@
     <string name="devicePerms" msgid="6733560207731294504">"设备相关权限"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"新版本不需要任何新的权限。"</string>
     <string name="grant_confirm_question" msgid="4690289297029223742">"要向该应用授予以下权限吗？"</string>
+    <string name="no_perms">此更新不需要任何权限。</string>
+    <string name="currentVersion">当前版本：</string>
+    <string name="newVersion">新版本：</string>
+    <string name="not_available">不可用</string>
 </resources>
